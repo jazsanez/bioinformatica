@@ -1,0 +1,2 @@
+# bioinformatica
+Prácticas de bioinformática
